@@ -1,0 +1,10 @@
+wrench
+hammer
+file
+tape_measure
+multimeter
+pliers
+screwdrivers
+safety_goggles
+feeler_gauge
+vernier caliper
